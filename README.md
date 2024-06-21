@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nothing special out there, just another teenager messing up with C++ & batch.
 
 <!--
 **Moilaitor/Moilaitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
